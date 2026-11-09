@@ -1,0 +1,280 @@
+source,record_id,check_name,detail,severity,likely_cause,next_action
+purchase_register,PR00739,DUPLICATE_INVOICE,,High,Same invoice booked again (often under a duplicate vendor record),Reverse the second booking before it is paid
+purchase_register,PR00824,DUPLICATE_INVOICE,,High,Same invoice booked again (often under a duplicate vendor record),Reverse the second booking before it is paid
+purchase_register,PR00875,DUPLICATE_INVOICE,,High,Same invoice booked again (often under a duplicate vendor record),Reverse the second booking before it is paid
+purchase_register,PR01039,DUPLICATE_INVOICE,,High,Same invoice booked again (often under a duplicate vendor record),Reverse the second booking before it is paid
+purchase_register,PR01049,DUPLICATE_INVOICE,,High,Same invoice booked again (often under a duplicate vendor record),Reverse the second booking before it is paid
+purchase_register,PR01149,DUPLICATE_INVOICE,,High,Same invoice booked again (often under a duplicate vendor record),Reverse the second booking before it is paid
+purchase_register,PR01206,DUPLICATE_INVOICE,,High,Same invoice booked again (often under a duplicate vendor record),Reverse the second booking before it is paid
+purchase_register,PR01239,DUPLICATE_INVOICE,,High,Same invoice booked again (often under a duplicate vendor record),Reverse the second booking before it is paid
+purchase_register,PR01271,DUPLICATE_INVOICE,,High,Same invoice booked again (often under a duplicate vendor record),Reverse the second booking before it is paid
+purchase_register,PR01846,DUPLICATE_INVOICE,,High,Same invoice booked again (often under a duplicate vendor record),Reverse the second booking before it is paid
+purchase_register,PR01914,DUPLICATE_INVOICE,,High,Same invoice booked again (often under a duplicate vendor record),Reverse the second booking before it is paid
+purchase_register,PR01939,DUPLICATE_INVOICE,,High,Same invoice booked again (often under a duplicate vendor record),Reverse the second booking before it is paid
+purchase_register,PR01945,DUPLICATE_INVOICE,,High,Same invoice booked again (often under a duplicate vendor record),Reverse the second booking before it is paid
+purchase_register,PR01972,DUPLICATE_INVOICE,,High,Same invoice booked again (often under a duplicate vendor record),Reverse the second booking before it is paid
+purchase_register,PR02133,DUPLICATE_INVOICE,,High,Same invoice booked again (often under a duplicate vendor record),Reverse the second booking before it is paid
+purchase_register,PR02249,DUPLICATE_INVOICE,,High,Same invoice booked again (often under a duplicate vendor record),Reverse the second booking before it is paid
+purchase_register,PR02263,DUPLICATE_INVOICE,,High,Same invoice booked again (often under a duplicate vendor record),Reverse the second booking before it is paid
+purchase_register,PR02320,DUPLICATE_INVOICE,,High,Same invoice booked again (often under a duplicate vendor record),Reverse the second booking before it is paid
+purchase_register,PR02321,DUPLICATE_INVOICE,,High,Same invoice booked again (often under a duplicate vendor record),Reverse the second booking before it is paid
+purchase_register,PR02406,DUPLICATE_INVOICE,,High,Same invoice booked again (often under a duplicate vendor record),Reverse the second booking before it is paid
+purchase_register,PR02881,DUPLICATE_INVOICE,,High,Same invoice booked again (often under a duplicate vendor record),Reverse the second booking before it is paid
+purchase_register,PR02882,DUPLICATE_INVOICE,,High,Same invoice booked again (often under a duplicate vendor record),Reverse the second booking before it is paid
+purchase_register,PR02883,DUPLICATE_INVOICE,,High,Same invoice booked again (often under a duplicate vendor record),Reverse the second booking before it is paid
+purchase_register,PR02884,DUPLICATE_INVOICE,,High,Same invoice booked again (often under a duplicate vendor record),Reverse the second booking before it is paid
+vendor_master,V011,GSTIN_INVALID,24YPVCR0622U1Z,High,GSTIN typed wrongly in the vendor master,Correct the GSTIN from the vendor's certificate
+vendor_master,V021,GSTIN_INVALID,00LOICX8080M1ZE,High,GSTIN typed wrongly in the vendor master,Correct the GSTIN from the vendor's certificate
+vendor_master,V031,GSTIN_INVALID,M7PSVCI5386Y1ZD,High,GSTIN typed wrongly in the vendor master,Correct the GSTIN from the vendor's certificate
+vendor_master,V073,GSTIN_INVALID,27FMZFD6130Q1XQ,High,GSTIN typed wrongly in the vendor master,Correct the GSTIN from the vendor's certificate
+vendor_master,V088,GSTIN_INVALID,07RQEFK9552S1Z27,High,GSTIN typed wrongly in the vendor master,Correct the GSTIN from the vendor's certificate
+vendor_master,V002,GSTIN_MISSING,,High,GSTIN never captured when the vendor was created,Get the GSTIN certificate from the vendor and update the master
+vendor_master,V054,GSTIN_MISSING,,High,GSTIN never captured when the vendor was created,Get the GSTIN certificate from the vendor and update the master
+vendor_master,V055,GSTIN_MISSING,,High,GSTIN never captured when the vendor was created,Get the GSTIN certificate from the vendor and update the master
+vendor_master,V086,GSTIN_MISSING,,High,GSTIN never captured when the vendor was created,Get the GSTIN certificate from the vendor and update the master
+purchase_register,PR00069,MISSING_IN_2B,,High,Supplier has not reported the invoice on the GST portal,Ask the supplier to file; hold the credit until it appears
+purchase_register,PR00199,MISSING_IN_2B,,High,Supplier has not reported the invoice on the GST portal,Ask the supplier to file; hold the credit until it appears
+purchase_register,PR00254,MISSING_IN_2B,,High,Supplier has not reported the invoice on the GST portal,Ask the supplier to file; hold the credit until it appears
+purchase_register,PR00263,MISSING_IN_2B,,High,Supplier has not reported the invoice on the GST portal,Ask the supplier to file; hold the credit until it appears
+purchase_register,PR00266,MISSING_IN_2B,,High,Supplier has not reported the invoice on the GST portal,Ask the supplier to file; hold the credit until it appears
+purchase_register,PR00267,MISSING_IN_2B,,High,Supplier has not reported the invoice on the GST portal,Ask the supplier to file; hold the credit until it appears
+purchase_register,PR00449,MISSING_IN_2B,,High,Supplier has not reported the invoice on the GST portal,Ask the supplier to file; hold the credit until it appears
+purchase_register,PR00525,MISSING_IN_2B,,High,Supplier has not reported the invoice on the GST portal,Ask the supplier to file; hold the credit until it appears
+purchase_register,PR00552,MISSING_IN_2B,,High,Supplier has not reported the invoice on the GST portal,Ask the supplier to file; hold the credit until it appears
+purchase_register,PR00687,MISSING_IN_2B,,High,Supplier has not reported the invoice on the GST portal,Ask the supplier to file; hold the credit until it appears
+purchase_register,PR00723,MISSING_IN_2B,,High,Supplier has not reported the invoice on the GST portal,Ask the supplier to file; hold the credit until it appears
+purchase_register,PR00850,MISSING_IN_2B,,High,Supplier has not reported the invoice on the GST portal,Ask the supplier to file; hold the credit until it appears
+purchase_register,PR00896,MISSING_IN_2B,,High,Supplier has not reported the invoice on the GST portal,Ask the supplier to file; hold the credit until it appears
+purchase_register,PR00996,MISSING_IN_2B,,High,Supplier has not reported the invoice on the GST portal,Ask the supplier to file; hold the credit until it appears
+purchase_register,PR01029,MISSING_IN_2B,,High,Supplier has not reported the invoice on the GST portal,Ask the supplier to file; hold the credit until it appears
+purchase_register,PR01038,MISSING_IN_2B,,High,Supplier has not reported the invoice on the GST portal,Ask the supplier to file; hold the credit until it appears
+purchase_register,PR01177,MISSING_IN_2B,,High,Supplier has not reported the invoice on the GST portal,Ask the supplier to file; hold the credit until it appears
+purchase_register,PR01228,MISSING_IN_2B,,High,Supplier has not reported the invoice on the GST portal,Ask the supplier to file; hold the credit until it appears
+purchase_register,PR01267,MISSING_IN_2B,,High,Supplier has not reported the invoice on the GST portal,Ask the supplier to file; hold the credit until it appears
+purchase_register,PR01322,MISSING_IN_2B,,High,Supplier has not reported the invoice on the GST portal,Ask the supplier to file; hold the credit until it appears
+purchase_register,PR01398,MISSING_IN_2B,,High,Supplier has not reported the invoice on the GST portal,Ask the supplier to file; hold the credit until it appears
+purchase_register,PR01788,MISSING_IN_2B,,High,Supplier has not reported the invoice on the GST portal,Ask the supplier to file; hold the credit until it appears
+purchase_register,PR01801,MISSING_IN_2B,,High,Supplier has not reported the invoice on the GST portal,Ask the supplier to file; hold the credit until it appears
+purchase_register,PR01809,MISSING_IN_2B,,High,Supplier has not reported the invoice on the GST portal,Ask the supplier to file; hold the credit until it appears
+purchase_register,PR02007,MISSING_IN_2B,,High,Supplier has not reported the invoice on the GST portal,Ask the supplier to file; hold the credit until it appears
+purchase_register,PR02107,MISSING_IN_2B,,High,Supplier has not reported the invoice on the GST portal,Ask the supplier to file; hold the credit until it appears
+purchase_register,PR02276,MISSING_IN_2B,,High,Supplier has not reported the invoice on the GST portal,Ask the supplier to file; hold the credit until it appears
+purchase_register,PR02362,MISSING_IN_2B,,High,Supplier has not reported the invoice on the GST portal,Ask the supplier to file; hold the credit until it appears
+purchase_register,PR02369,MISSING_IN_2B,,High,Supplier has not reported the invoice on the GST portal,Ask the supplier to file; hold the credit until it appears
+purchase_register,PR02419,MISSING_IN_2B,,High,Supplier has not reported the invoice on the GST portal,Ask the supplier to file; hold the credit until it appears
+purchase_register,PR02449,MISSING_IN_2B,,High,Supplier has not reported the invoice on the GST portal,Ask the supplier to file; hold the credit until it appears
+purchase_register,PR02493,MISSING_IN_2B,,High,Supplier has not reported the invoice on the GST portal,Ask the supplier to file; hold the credit until it appears
+purchase_register,PR02496,MISSING_IN_2B,,High,Supplier has not reported the invoice on the GST portal,Ask the supplier to file; hold the credit until it appears
+purchase_register,PR02526,MISSING_IN_2B,,High,Supplier has not reported the invoice on the GST portal,Ask the supplier to file; hold the credit until it appears
+purchase_register,PR02568,MISSING_IN_2B,,High,Supplier has not reported the invoice on the GST portal,Ask the supplier to file; hold the credit until it appears
+purchase_register,PR02646,MISSING_IN_2B,,High,Supplier has not reported the invoice on the GST portal,Ask the supplier to file; hold the credit until it appears
+purchase_register,PR02696,MISSING_IN_2B,,High,Supplier has not reported the invoice on the GST portal,Ask the supplier to file; hold the credit until it appears
+purchase_register,PR02701,MISSING_IN_2B,,High,Supplier has not reported the invoice on the GST portal,Ask the supplier to file; hold the credit until it appears
+purchase_register,PR02735,MISSING_IN_2B,,High,Supplier has not reported the invoice on the GST portal,Ask the supplier to file; hold the credit until it appears
+purchase_register,PR02785,MISSING_IN_2B,,High,Supplier has not reported the invoice on the GST portal,Ask the supplier to file; hold the credit until it appears
+purchase_register,PR00309,OVERPAID,,High,Excess payment,Recover or adjust the excess
+purchase_register,PR00531,OVERPAID,,High,Excess payment,Recover or adjust the excess
+purchase_register,PR00732,OVERPAID,,High,Excess payment,Recover or adjust the excess
+purchase_register,PR01837,OVERPAID,,High,Excess payment,Recover or adjust the excess
+purchase_register,PR01899,OVERPAID,,High,Excess payment,Recover or adjust the excess
+purchase_register,PR01950,OVERPAID,,High,Excess payment,Recover or adjust the excess
+purchase_register,PR01983,OVERPAID,,High,Excess payment,Recover or adjust the excess
+purchase_register,PR02141,OVERPAID,,High,Excess payment,Recover or adjust the excess
+purchase_register,PR00805,PAID_TWICE,,High,Invoice paid in two separate payment runs,Recover the extra payment or adjust against the next bill
+purchase_register,PR00861,PAID_TWICE,,High,Invoice paid in two separate payment runs,Recover the extra payment or adjust against the next bill
+purchase_register,PR01461,PAID_TWICE,,High,Invoice paid in two separate payment runs,Recover the extra payment or adjust against the next bill
+purchase_register,PR01862,PAID_TWICE,,High,Invoice paid in two separate payment runs,Recover the extra payment or adjust against the next bill
+purchase_register,PR02156,PAID_TWICE,,High,Invoice paid in two separate payment runs,Recover the extra payment or adjust against the next bill
+purchase_register,PR02840,PAID_TWICE,,High,Invoice paid in two separate payment runs,Recover the extra payment or adjust against the next bill
+purchase_register,PR00005,TAX_AMOUNT_WRONG,"booked 4513.42, expected 3008.95",High,Tax worked out at the wrong rate,Recalculate tax and correct the entry
+purchase_register,PR00007,TAX_AMOUNT_WRONG,"booked 58238.18, expected 52943.80",High,Tax worked out at the wrong rate,Recalculate tax and correct the entry
+purchase_register,PR00211,TAX_AMOUNT_WRONG,"booked 80473.00, expected 160946.00",High,Tax worked out at the wrong rate,Recalculate tax and correct the entry
+purchase_register,PR00313,TAX_AMOUNT_WRONG,"booked 1340.58, expected 893.72",High,Tax worked out at the wrong rate,Recalculate tax and correct the entry
+purchase_register,PR00480,TAX_AMOUNT_WRONG,"booked 44036.48, expected 88072.97",High,Tax worked out at the wrong rate,Recalculate tax and correct the entry
+purchase_register,PR00497,TAX_AMOUNT_WRONG,"booked 5953.09, expected 11906.17",High,Tax worked out at the wrong rate,Recalculate tax and correct the entry
+purchase_register,PR00734,TAX_AMOUNT_WRONG,"booked 10354.30, expected 12942.88",High,Tax worked out at the wrong rate,Recalculate tax and correct the entry
+purchase_register,PR00750,TAX_AMOUNT_WRONG,"booked 12749.30, expected 8499.53",High,Tax worked out at the wrong rate,Recalculate tax and correct the entry
+purchase_register,PR01040,TAX_AMOUNT_WRONG,"booked 1973.56, expected 2466.96",High,Tax worked out at the wrong rate,Recalculate tax and correct the entry
+purchase_register,PR01156,TAX_AMOUNT_WRONG,"booked 12193.10, expected 8128.73",High,Tax worked out at the wrong rate,Recalculate tax and correct the entry
+purchase_register,PR01259,TAX_AMOUNT_WRONG,"booked 31048.70, expected 20699.14",High,Tax worked out at the wrong rate,Recalculate tax and correct the entry
+purchase_register,PR01577,TAX_AMOUNT_WRONG,"booked 310.52, expected 465.78",High,Tax worked out at the wrong rate,Recalculate tax and correct the entry
+purchase_register,PR01779,TAX_AMOUNT_WRONG,"booked 1288.28, expected 2576.58",High,Tax worked out at the wrong rate,Recalculate tax and correct the entry
+purchase_register,PR01964,TAX_AMOUNT_WRONG,"booked 1514.28, expected 1892.84",High,Tax worked out at the wrong rate,Recalculate tax and correct the entry
+purchase_register,PR02612,TAX_AMOUNT_WRONG,"booked 30387.22, expected 27624.74",High,Tax worked out at the wrong rate,Recalculate tax and correct the entry
+purchase_register,PR00005,AMOUNT_MISMATCH,,Medium,Amount booked differs from what the supplier reported,Compare with the invoice copy and ask the supplier to amend
+purchase_register,PR00007,AMOUNT_MISMATCH,,Medium,Amount booked differs from what the supplier reported,Compare with the invoice copy and ask the supplier to amend
+purchase_register,PR00140,AMOUNT_MISMATCH,,Medium,Amount booked differs from what the supplier reported,Compare with the invoice copy and ask the supplier to amend
+purchase_register,PR00211,AMOUNT_MISMATCH,,Medium,Amount booked differs from what the supplier reported,Compare with the invoice copy and ask the supplier to amend
+purchase_register,PR00216,AMOUNT_MISMATCH,,Medium,Amount booked differs from what the supplier reported,Compare with the invoice copy and ask the supplier to amend
+purchase_register,PR00313,AMOUNT_MISMATCH,,Medium,Amount booked differs from what the supplier reported,Compare with the invoice copy and ask the supplier to amend
+purchase_register,PR00331,AMOUNT_MISMATCH,,Medium,Amount booked differs from what the supplier reported,Compare with the invoice copy and ask the supplier to amend
+purchase_register,PR00413,AMOUNT_MISMATCH,,Medium,Amount booked differs from what the supplier reported,Compare with the invoice copy and ask the supplier to amend
+purchase_register,PR00480,AMOUNT_MISMATCH,,Medium,Amount booked differs from what the supplier reported,Compare with the invoice copy and ask the supplier to amend
+purchase_register,PR00497,AMOUNT_MISMATCH,,Medium,Amount booked differs from what the supplier reported,Compare with the invoice copy and ask the supplier to amend
+purchase_register,PR00603,AMOUNT_MISMATCH,,Medium,Amount booked differs from what the supplier reported,Compare with the invoice copy and ask the supplier to amend
+purchase_register,PR00623,AMOUNT_MISMATCH,,Medium,Amount booked differs from what the supplier reported,Compare with the invoice copy and ask the supplier to amend
+purchase_register,PR00691,AMOUNT_MISMATCH,,Medium,Amount booked differs from what the supplier reported,Compare with the invoice copy and ask the supplier to amend
+purchase_register,PR00720,AMOUNT_MISMATCH,,Medium,Amount booked differs from what the supplier reported,Compare with the invoice copy and ask the supplier to amend
+purchase_register,PR00734,AMOUNT_MISMATCH,,Medium,Amount booked differs from what the supplier reported,Compare with the invoice copy and ask the supplier to amend
+purchase_register,PR00750,AMOUNT_MISMATCH,,Medium,Amount booked differs from what the supplier reported,Compare with the invoice copy and ask the supplier to amend
+purchase_register,PR00855,AMOUNT_MISMATCH,,Medium,Amount booked differs from what the supplier reported,Compare with the invoice copy and ask the supplier to amend
+purchase_register,PR01040,AMOUNT_MISMATCH,,Medium,Amount booked differs from what the supplier reported,Compare with the invoice copy and ask the supplier to amend
+purchase_register,PR01156,AMOUNT_MISMATCH,,Medium,Amount booked differs from what the supplier reported,Compare with the invoice copy and ask the supplier to amend
+purchase_register,PR01253,AMOUNT_MISMATCH,,Medium,Amount booked differs from what the supplier reported,Compare with the invoice copy and ask the supplier to amend
+purchase_register,PR01259,AMOUNT_MISMATCH,,Medium,Amount booked differs from what the supplier reported,Compare with the invoice copy and ask the supplier to amend
+purchase_register,PR01290,AMOUNT_MISMATCH,,Medium,Amount booked differs from what the supplier reported,Compare with the invoice copy and ask the supplier to amend
+purchase_register,PR01358,AMOUNT_MISMATCH,,Medium,Amount booked differs from what the supplier reported,Compare with the invoice copy and ask the supplier to amend
+purchase_register,PR01429,AMOUNT_MISMATCH,,Medium,Amount booked differs from what the supplier reported,Compare with the invoice copy and ask the supplier to amend
+purchase_register,PR01494,AMOUNT_MISMATCH,,Medium,Amount booked differs from what the supplier reported,Compare with the invoice copy and ask the supplier to amend
+purchase_register,PR01517,AMOUNT_MISMATCH,,Medium,Amount booked differs from what the supplier reported,Compare with the invoice copy and ask the supplier to amend
+purchase_register,PR01519,AMOUNT_MISMATCH,,Medium,Amount booked differs from what the supplier reported,Compare with the invoice copy and ask the supplier to amend
+purchase_register,PR01577,AMOUNT_MISMATCH,,Medium,Amount booked differs from what the supplier reported,Compare with the invoice copy and ask the supplier to amend
+purchase_register,PR01779,AMOUNT_MISMATCH,,Medium,Amount booked differs from what the supplier reported,Compare with the invoice copy and ask the supplier to amend
+purchase_register,PR01964,AMOUNT_MISMATCH,,Medium,Amount booked differs from what the supplier reported,Compare with the invoice copy and ask the supplier to amend
+purchase_register,PR01992,AMOUNT_MISMATCH,,Medium,Amount booked differs from what the supplier reported,Compare with the invoice copy and ask the supplier to amend
+purchase_register,PR02052,AMOUNT_MISMATCH,,Medium,Amount booked differs from what the supplier reported,Compare with the invoice copy and ask the supplier to amend
+purchase_register,PR02175,AMOUNT_MISMATCH,,Medium,Amount booked differs from what the supplier reported,Compare with the invoice copy and ask the supplier to amend
+purchase_register,PR02292,AMOUNT_MISMATCH,,Medium,Amount booked differs from what the supplier reported,Compare with the invoice copy and ask the supplier to amend
+purchase_register,PR02504,AMOUNT_MISMATCH,,Medium,Amount booked differs from what the supplier reported,Compare with the invoice copy and ask the supplier to amend
+purchase_register,PR02612,AMOUNT_MISMATCH,,Medium,Amount booked differs from what the supplier reported,Compare with the invoice copy and ask the supplier to amend
+purchase_register,PR02679,AMOUNT_MISMATCH,,Medium,Amount booked differs from what the supplier reported,Compare with the invoice copy and ask the supplier to amend
+purchase_register,PR02724,AMOUNT_MISMATCH,,Medium,Amount booked differs from what the supplier reported,Compare with the invoice copy and ask the supplier to amend
+purchase_register,PR02759,AMOUNT_MISMATCH,,Medium,Amount booked differs from what the supplier reported,Compare with the invoice copy and ask the supplier to amend
+purchase_register,PR02854,AMOUNT_MISMATCH,,Medium,Amount booked differs from what the supplier reported,Compare with the invoice copy and ask the supplier to amend
+vendor_master,V010,DUPLICATE_VENDOR,PAN HVKFG9531B used by 2 vendor records,Medium,Same supplier created twice under a different name,Merge into one vendor record and block the other
+vendor_master,V016,DUPLICATE_VENDOR,PAN OVPFG4060D used by 2 vendor records,Medium,Same supplier created twice under a different name,Merge into one vendor record and block the other
+vendor_master,V024,DUPLICATE_VENDOR,PAN WFFCY1291L used by 2 vendor records,Medium,Same supplier created twice under a different name,Merge into one vendor record and block the other
+vendor_master,V062,DUPLICATE_VENDOR,PAN QQJCP1981R used by 2 vendor records,Medium,Same supplier created twice under a different name,Merge into one vendor record and block the other
+vendor_master,V096,DUPLICATE_VENDOR,PAN WFFCY1291L used by 2 vendor records,Medium,Same supplier created twice under a different name,Merge into one vendor record and block the other
+vendor_master,V097,DUPLICATE_VENDOR,PAN QQJCP1981R used by 2 vendor records,Medium,Same supplier created twice under a different name,Merge into one vendor record and block the other
+vendor_master,V098,DUPLICATE_VENDOR,PAN HVKFG9531B used by 2 vendor records,Medium,Same supplier created twice under a different name,Merge into one vendor record and block the other
+vendor_master,V099,DUPLICATE_VENDOR,PAN OVPFG4060D used by 2 vendor records,Medium,Same supplier created twice under a different name,Merge into one vendor record and block the other
+purchase_register,PR00312,FIELD_MISSING,vendor_gstin,Medium,Field left blank at data entry,Fill the field from the invoice copy
+purchase_register,PR00322,FIELD_MISSING,taxable_value,Medium,Field left blank at data entry,Fill the field from the invoice copy
+purchase_register,PR00554,FIELD_MISSING,invoice_no,Medium,Field left blank at data entry,Fill the field from the invoice copy
+purchase_register,PR00595,FIELD_MISSING,vendor_gstin,Medium,Field left blank at data entry,Fill the field from the invoice copy
+purchase_register,PR00626,FIELD_MISSING,taxable_value,Medium,Field left blank at data entry,Fill the field from the invoice copy
+purchase_register,PR00627,FIELD_MISSING,vendor_gstin,Medium,Field left blank at data entry,Fill the field from the invoice copy
+purchase_register,PR00651,FIELD_MISSING,invoice_no,Medium,Field left blank at data entry,Fill the field from the invoice copy
+purchase_register,PR00730,FIELD_MISSING,vendor_gstin,Medium,Field left blank at data entry,Fill the field from the invoice copy
+purchase_register,PR01001,FIELD_MISSING,invoice_date,Medium,Field left blank at data entry,Fill the field from the invoice copy
+purchase_register,PR01067,FIELD_MISSING,vendor_gstin,Medium,Field left blank at data entry,Fill the field from the invoice copy
+purchase_register,PR01119,FIELD_MISSING,taxable_value,Medium,Field left blank at data entry,Fill the field from the invoice copy
+purchase_register,PR01310,FIELD_MISSING,invoice_date,Medium,Field left blank at data entry,Fill the field from the invoice copy
+purchase_register,PR01940,FIELD_MISSING,invoice_no,Medium,Field left blank at data entry,Fill the field from the invoice copy
+purchase_register,PR02232,FIELD_MISSING,taxable_value,Medium,Field left blank at data entry,Fill the field from the invoice copy
+purchase_register,PR02264,FIELD_MISSING,invoice_no,Medium,Field left blank at data entry,Fill the field from the invoice copy
+purchase_register,PR02281,FIELD_MISSING,invoice_no,Medium,Field left blank at data entry,Fill the field from the invoice copy
+purchase_register,PR02350,FIELD_MISSING,invoice_date,Medium,Field left blank at data entry,Fill the field from the invoice copy
+purchase_register,PR02421,FIELD_MISSING,taxable_value,Medium,Field left blank at data entry,Fill the field from the invoice copy
+purchase_register,PR02577,FIELD_MISSING,invoice_date,Medium,Field left blank at data entry,Fill the field from the invoice copy
+purchase_register,PR02602,FIELD_MISSING,invoice_date,Medium,Field left blank at data entry,Fill the field from the invoice copy
+vendor_master,V009,PAN_MISMATCH,"GSTIN has JFBCF7492M, PAN column JFBCF7495M",Medium,PAN typed wrongly in the vendor master,Correct the PAN to match the GSTIN
+vendor_master,V014,PAN_MISMATCH,"GSTIN has OSRCR2183D, PAN column OSRCR5183D",Medium,PAN typed wrongly in the vendor master,Correct the PAN to match the GSTIN
+vendor_master,V067,PAN_MISMATCH,"GSTIN has LLVCZ9512J, PAN column LLVCZ9515J",Medium,PAN typed wrongly in the vendor master,Correct the PAN to match the GSTIN
+purchase_register,PR00510,TAX_TYPE_WRONG,supplier state 27,Medium,IGST and CGST/SGST mixed up for the supplier's state,Rebook with the correct tax type
+purchase_register,PR00742,TAX_TYPE_WRONG,supplier state 27,Medium,IGST and CGST/SGST mixed up for the supplier's state,Rebook with the correct tax type
+purchase_register,PR00779,TAX_TYPE_WRONG,supplier state 27,Medium,IGST and CGST/SGST mixed up for the supplier's state,Rebook with the correct tax type
+purchase_register,PR00828,TAX_TYPE_WRONG,supplier state 27,Medium,IGST and CGST/SGST mixed up for the supplier's state,Rebook with the correct tax type
+purchase_register,PR01303,TAX_TYPE_WRONG,supplier state 07,Medium,IGST and CGST/SGST mixed up for the supplier's state,Rebook with the correct tax type
+purchase_register,PR01342,TAX_TYPE_WRONG,supplier state 24,Medium,IGST and CGST/SGST mixed up for the supplier's state,Rebook with the correct tax type
+purchase_register,PR01380,TAX_TYPE_WRONG,supplier state 27,Medium,IGST and CGST/SGST mixed up for the supplier's state,Rebook with the correct tax type
+purchase_register,PR01486,TAX_TYPE_WRONG,supplier state 27,Medium,IGST and CGST/SGST mixed up for the supplier's state,Rebook with the correct tax type
+purchase_register,PR02373,TAX_TYPE_WRONG,supplier state 09,Medium,IGST and CGST/SGST mixed up for the supplier's state,Rebook with the correct tax type
+purchase_register,PR02790,TAX_TYPE_WRONG,supplier state 27,Medium,IGST and CGST/SGST mixed up for the supplier's state,Rebook with the correct tax type
+payments,PAY00034,TDS_NOT_DEDUCTED,Rent,Medium,TDS skipped on a professional fee or rent payment,Recover TDS from the vendor and deposit it
+payments,PAY00413,TDS_NOT_DEDUCTED,Professional Fees,Medium,TDS skipped on a professional fee or rent payment,Recover TDS from the vendor and deposit it
+payments,PAY00652,TDS_NOT_DEDUCTED,Professional Fees,Medium,TDS skipped on a professional fee or rent payment,Recover TDS from the vendor and deposit it
+payments,PAY01047,TDS_NOT_DEDUCTED,Professional Fees,Medium,TDS skipped on a professional fee or rent payment,Recover TDS from the vendor and deposit it
+payments,PAY01289,TDS_NOT_DEDUCTED,Professional Fees,Medium,TDS skipped on a professional fee or rent payment,Recover TDS from the vendor and deposit it
+payments,PAY01298,TDS_NOT_DEDUCTED,Rent,Medium,TDS skipped on a professional fee or rent payment,Recover TDS from the vendor and deposit it
+payments,PAY01566,TDS_NOT_DEDUCTED,Professional Fees,Medium,TDS skipped on a professional fee or rent payment,Recover TDS from the vendor and deposit it
+payments,PAY02035,TDS_NOT_DEDUCTED,Professional Fees,Medium,TDS skipped on a professional fee or rent payment,Recover TDS from the vendor and deposit it
+purchase_register,PR00068,UNDERPAID,,Medium,Short payment,Confirm the reason and pay the balance
+purchase_register,PR00095,UNDERPAID,,Medium,Short payment,Confirm the reason and pay the balance
+purchase_register,PR00381,UNDERPAID,,Medium,Short payment,Confirm the reason and pay the balance
+purchase_register,PR00446,UNDERPAID,,Medium,Short payment,Confirm the reason and pay the balance
+purchase_register,PR00482,UNDERPAID,,Medium,Short payment,Confirm the reason and pay the balance
+purchase_register,PR00619,UNDERPAID,,Medium,Short payment,Confirm the reason and pay the balance
+purchase_register,PR00783,UNDERPAID,,Medium,Short payment,Confirm the reason and pay the balance
+purchase_register,PR00908,UNDERPAID,,Medium,Short payment,Confirm the reason and pay the balance
+purchase_register,PR01357,UNDERPAID,,Medium,Short payment,Confirm the reason and pay the balance
+purchase_register,PR01625,UNDERPAID,,Medium,Short payment,Confirm the reason and pay the balance
+purchase_register,PR01722,UNDERPAID,,Medium,Short payment,Confirm the reason and pay the balance
+purchase_register,PR01916,UNDERPAID,,Medium,Short payment,Confirm the reason and pay the balance
+purchase_register,PR02003,UNDERPAID,,Medium,Short payment,Confirm the reason and pay the balance
+purchase_register,PR02117,UNDERPAID,,Medium,Short payment,Confirm the reason and pay the balance
+purchase_register,PR02361,UNDERPAID,,Medium,Short payment,Confirm the reason and pay the balance
+purchase_register,PR02683,UNDERPAID,,Medium,Short payment,Confirm the reason and pay the balance
+purchase_register,PR02732,UNDERPAID,,Medium,Short payment,Confirm the reason and pay the balance
+purchase_register,PR02868,UNDERPAID,,Medium,Short payment,Confirm the reason and pay the balance
+purchase_register,PR00064,UNPAID_OVERDUE,,Medium,Payment not released after the due date,Release payment or record why it is on hold
+purchase_register,PR00097,UNPAID_OVERDUE,,Medium,Payment not released after the due date,Release payment or record why it is on hold
+purchase_register,PR00144,UNPAID_OVERDUE,,Medium,Payment not released after the due date,Release payment or record why it is on hold
+purchase_register,PR00251,UNPAID_OVERDUE,,Medium,Payment not released after the due date,Release payment or record why it is on hold
+purchase_register,PR00297,UNPAID_OVERDUE,,Medium,Payment not released after the due date,Release payment or record why it is on hold
+purchase_register,PR00314,UNPAID_OVERDUE,,Medium,Payment not released after the due date,Release payment or record why it is on hold
+purchase_register,PR00352,UNPAID_OVERDUE,,Medium,Payment not released after the due date,Release payment or record why it is on hold
+purchase_register,PR00478,UNPAID_OVERDUE,,Medium,Payment not released after the due date,Release payment or record why it is on hold
+purchase_register,PR00499,UNPAID_OVERDUE,,Medium,Payment not released after the due date,Release payment or record why it is on hold
+purchase_register,PR00607,UNPAID_OVERDUE,,Medium,Payment not released after the due date,Release payment or record why it is on hold
+purchase_register,PR00719,UNPAID_OVERDUE,,Medium,Payment not released after the due date,Release payment or record why it is on hold
+purchase_register,PR00734,UNPAID_OVERDUE,,Medium,Payment not released after the due date,Release payment or record why it is on hold
+purchase_register,PR00790,UNPAID_OVERDUE,,Medium,Payment not released after the due date,Release payment or record why it is on hold
+purchase_register,PR01093,UNPAID_OVERDUE,,Medium,Payment not released after the due date,Release payment or record why it is on hold
+purchase_register,PR01110,UNPAID_OVERDUE,,Medium,Payment not released after the due date,Release payment or record why it is on hold
+purchase_register,PR01198,UNPAID_OVERDUE,,Medium,Payment not released after the due date,Release payment or record why it is on hold
+purchase_register,PR01233,UNPAID_OVERDUE,,Medium,Payment not released after the due date,Release payment or record why it is on hold
+purchase_register,PR01491,UNPAID_OVERDUE,,Medium,Payment not released after the due date,Release payment or record why it is on hold
+purchase_register,PR01554,UNPAID_OVERDUE,,Medium,Payment not released after the due date,Release payment or record why it is on hold
+purchase_register,PR01620,UNPAID_OVERDUE,,Medium,Payment not released after the due date,Release payment or record why it is on hold
+purchase_register,PR00094,CATEGORY_MISMATCH,"booked Repairs & Maintenance, vendor is Office Supplies",Low,Expense coded to the wrong category,Reclassify to the vendor's category or confirm the exception
+purchase_register,PR00106,CATEGORY_MISMATCH,"booked Cloud & Software, vendor is Office Supplies",Low,Expense coded to the wrong category,Reclassify to the vendor's category or confirm the exception
+purchase_register,PR00110,CATEGORY_MISMATCH,"booked Travel, vendor is Logistics",Low,Expense coded to the wrong category,Reclassify to the vendor's category or confirm the exception
+purchase_register,PR00120,CATEGORY_MISMATCH,"booked Telecom, vendor is Travel",Low,Expense coded to the wrong category,Reclassify to the vendor's category or confirm the exception
+purchase_register,PR00188,CATEGORY_MISMATCH,"booked Raw Materials, vendor is Office Supplies",Low,Expense coded to the wrong category,Reclassify to the vendor's category or confirm the exception
+purchase_register,PR00534,CATEGORY_MISMATCH,"booked Cloud & Software, vendor is Telecom",Low,Expense coded to the wrong category,Reclassify to the vendor's category or confirm the exception
+purchase_register,PR00705,CATEGORY_MISMATCH,"booked Repairs & Maintenance, vendor is Logistics",Low,Expense coded to the wrong category,Reclassify to the vendor's category or confirm the exception
+purchase_register,PR00741,CATEGORY_MISMATCH,"booked Repairs & Maintenance, vendor is Raw Materials",Low,Expense coded to the wrong category,Reclassify to the vendor's category or confirm the exception
+purchase_register,PR00803,CATEGORY_MISMATCH,"booked Office Supplies, vendor is Professional Fees",Low,Expense coded to the wrong category,Reclassify to the vendor's category or confirm the exception
+purchase_register,PR00956,CATEGORY_MISMATCH,"booked Marketing, vendor is Office Supplies",Low,Expense coded to the wrong category,Reclassify to the vendor's category or confirm the exception
+purchase_register,PR01542,CATEGORY_MISMATCH,"booked Telecom, vendor is Raw Materials",Low,Expense coded to the wrong category,Reclassify to the vendor's category or confirm the exception
+purchase_register,PR01621,CATEGORY_MISMATCH,"booked Raw Materials, vendor is Logistics",Low,Expense coded to the wrong category,Reclassify to the vendor's category or confirm the exception
+purchase_register,PR01837,CATEGORY_MISMATCH,"booked Telecom, vendor is Office Supplies",Low,Expense coded to the wrong category,Reclassify to the vendor's category or confirm the exception
+purchase_register,PR01925,CATEGORY_MISMATCH,"booked Repairs & Maintenance, vendor is Raw Materials",Low,Expense coded to the wrong category,Reclassify to the vendor's category or confirm the exception
+purchase_register,PR02200,CATEGORY_MISMATCH,"booked Marketing, vendor is Logistics",Low,Expense coded to the wrong category,Reclassify to the vendor's category or confirm the exception
+purchase_register,PR02336,CATEGORY_MISMATCH,"booked Rent, vendor is Logistics",Low,Expense coded to the wrong category,Reclassify to the vendor's category or confirm the exception
+purchase_register,PR02409,CATEGORY_MISMATCH,"booked Office Supplies, vendor is Raw Materials",Low,Expense coded to the wrong category,Reclassify to the vendor's category or confirm the exception
+purchase_register,PR02475,CATEGORY_MISMATCH,"booked Telecom, vendor is Logistics",Low,Expense coded to the wrong category,Reclassify to the vendor's category or confirm the exception
+purchase_register,PR02482,CATEGORY_MISMATCH,"booked Repairs & Maintenance, vendor is Travel",Low,Expense coded to the wrong category,Reclassify to the vendor's category or confirm the exception
+purchase_register,PR02672,CATEGORY_MISMATCH,"booked Telecom, vendor is Travel",Low,Expense coded to the wrong category,Reclassify to the vendor's category or confirm the exception
+gstr_2b,B00102,NOT_IN_BOOKS,ST/26-27/9013,Low,"Invoice reported by supplier but not booked, or booked with missing details",Check for an unbooked invoice and book it if valid
+gstr_2b,B00147,NOT_IN_BOOKS,NI/26-27/9003,Low,"Invoice reported by supplier but not booked, or booked with missing details",Check for an unbooked invoice and book it if valid
+gstr_2b,B00160,NOT_IN_BOOKS,BL/26-27/9007,Low,"Invoice reported by supplier but not booked, or booked with missing details",Check for an unbooked invoice and book it if valid
+gstr_2b,B00176,NOT_IN_BOOKS,SF/26-27/9008,Low,"Invoice reported by supplier but not booked, or booked with missing details",Check for an unbooked invoice and book it if valid
+gstr_2b,B00214,NOT_IN_BOOKS,AP/26-27/0005,Low,"Invoice reported by supplier but not booked, or booked with missing details",Check for an unbooked invoice and book it if valid
+gstr_2b,B00355,NOT_IN_BOOKS,AT/26-27/9014,Low,"Invoice reported by supplier but not booked, or booked with missing details",Check for an unbooked invoice and book it if valid
+gstr_2b,B00539,NOT_IN_BOOKS,PM/26-27/0021,Low,"Invoice reported by supplier but not booked, or booked with missing details",Check for an unbooked invoice and book it if valid
+gstr_2b,B00721,NOT_IN_BOOKS,SP/26-27/0015,Low,"Invoice reported by supplier but not booked, or booked with missing details",Check for an unbooked invoice and book it if valid
+gstr_2b,B00826,NOT_IN_BOOKS,SF/26-27/9010,Low,"Invoice reported by supplier but not booked, or booked with missing details",Check for an unbooked invoice and book it if valid
+gstr_2b,B00858,NOT_IN_BOOKS,TT/26-27/0009,Low,"Invoice reported by supplier but not booked, or booked with missing details",Check for an unbooked invoice and book it if valid
+gstr_2b,B00927,NOT_IN_BOOKS,TR/26-27/0011,Low,"Invoice reported by supplier but not booked, or booked with missing details",Check for an unbooked invoice and book it if valid
+gstr_2b,B00937,NOT_IN_BOOKS,MS/26-27/0009,Low,"Invoice reported by supplier but not booked, or booked with missing details",Check for an unbooked invoice and book it if valid
+gstr_2b,B00943,NOT_IN_BOOKS,GT/26-27/9005,Low,"Invoice reported by supplier but not booked, or booked with missing details",Check for an unbooked invoice and book it if valid
+gstr_2b,B01399,NOT_IN_BOOKS,TR/26-27/0016,Low,"Invoice reported by supplier but not booked, or booked with missing details",Check for an unbooked invoice and book it if valid
+gstr_2b,B01695,NOT_IN_BOOKS,NC/26-27/9006,Low,"Invoice reported by supplier but not booked, or booked with missing details",Check for an unbooked invoice and book it if valid
+gstr_2b,B01821,NOT_IN_BOOKS,NS/26-27/9000,Low,"Invoice reported by supplier but not booked, or booked with missing details",Check for an unbooked invoice and book it if valid
+gstr_2b,B01879,NOT_IN_BOOKS,MS/26-27/9002,Low,"Invoice reported by supplier but not booked, or booked with missing details",Check for an unbooked invoice and book it if valid
+gstr_2b,B01929,NOT_IN_BOOKS,AS/26-27/0047,Low,"Invoice reported by supplier but not booked, or booked with missing details",Check for an unbooked invoice and book it if valid
+gstr_2b,B02192,NOT_IN_BOOKS,AS/26-27/0026,Low,"Invoice reported by supplier but not booked, or booked with missing details",Check for an unbooked invoice and book it if valid
+gstr_2b,B02200,NOT_IN_BOOKS,NC/26-27/9009,Low,"Invoice reported by supplier but not booked, or booked with missing details",Check for an unbooked invoice and book it if valid
+gstr_2b,B02253,NOT_IN_BOOKS,PA/26-27/9004,Low,"Invoice reported by supplier but not booked, or booked with missing details",Check for an unbooked invoice and book it if valid
+gstr_2b,B02270,NOT_IN_BOOKS,NL/26-27/0027,Low,"Invoice reported by supplier but not booked, or booked with missing details",Check for an unbooked invoice and book it if valid
+gstr_2b,B02450,NOT_IN_BOOKS,CC/26-27/9011,Low,"Invoice reported by supplier but not booked, or booked with missing details",Check for an unbooked invoice and book it if valid
+gstr_2b,B02712,NOT_IN_BOOKS,NB/26-27/9001,Low,"Invoice reported by supplier but not booked, or booked with missing details",Check for an unbooked invoice and book it if valid
+gstr_2b,B02714,NOT_IN_BOOKS,NR/26-27/9012,Low,"Invoice reported by supplier but not booked, or booked with missing details",Check for an unbooked invoice and book it if valid
+payments,PAY00792,PAYMENT_NOT_LINKED,TR/26-27/0011,Low,Payment made against an invoice with no matching booking,Find the invoice and complete the booking
+payments,PAY01029,PAYMENT_NOT_LINKED,PM/26-27/0021,Low,Payment made against an invoice with no matching booking,Find the invoice and complete the booking
+payments,PAY01562,PAYMENT_NOT_LINKED,AS/26-27/0026,Low,Payment made against an invoice with no matching booking,Find the invoice and complete the booking
+payments,PAY02288,PAYMENT_NOT_LINKED,NL/26-27/0027,Low,Payment made against an invoice with no matching booking,Find the invoice and complete the booking
+payments,PAY02515,PAYMENT_NOT_LINKED,AS/26-27/0047,Low,Payment made against an invoice with no matching booking,Find the invoice and complete the booking

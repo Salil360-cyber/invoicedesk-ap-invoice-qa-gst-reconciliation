@@ -1,0 +1,246 @@
+table,record_id,planted_error,note
+gstr_2b,B00102,NOT_IN_BOOKS,
+gstr_2b,B00147,NOT_IN_BOOKS,
+gstr_2b,B00160,NOT_IN_BOOKS,
+gstr_2b,B00176,NOT_IN_BOOKS,
+gstr_2b,B00355,NOT_IN_BOOKS,
+gstr_2b,B00826,NOT_IN_BOOKS,
+gstr_2b,B00943,NOT_IN_BOOKS,
+gstr_2b,B01695,NOT_IN_BOOKS,
+gstr_2b,B01821,NOT_IN_BOOKS,
+gstr_2b,B01879,NOT_IN_BOOKS,
+gstr_2b,B02200,NOT_IN_BOOKS,
+gstr_2b,B02253,NOT_IN_BOOKS,
+gstr_2b,B02450,NOT_IN_BOOKS,
+gstr_2b,B02712,NOT_IN_BOOKS,
+gstr_2b,B02714,NOT_IN_BOOKS,
+purchase_register,PR00140,2B_AMOUNT_DIFFERS,
+purchase_register,PR00216,2B_AMOUNT_DIFFERS,
+purchase_register,PR00331,2B_AMOUNT_DIFFERS,
+purchase_register,PR00413,2B_AMOUNT_DIFFERS,
+purchase_register,PR00603,2B_AMOUNT_DIFFERS,
+purchase_register,PR00623,2B_AMOUNT_DIFFERS,
+purchase_register,PR00691,2B_AMOUNT_DIFFERS,
+purchase_register,PR00720,2B_AMOUNT_DIFFERS,
+purchase_register,PR00855,2B_AMOUNT_DIFFERS,
+purchase_register,PR01253,2B_AMOUNT_DIFFERS,
+purchase_register,PR01290,2B_AMOUNT_DIFFERS,
+purchase_register,PR01358,2B_AMOUNT_DIFFERS,
+purchase_register,PR01429,2B_AMOUNT_DIFFERS,
+purchase_register,PR01494,2B_AMOUNT_DIFFERS,
+purchase_register,PR01517,2B_AMOUNT_DIFFERS,
+purchase_register,PR01519,2B_AMOUNT_DIFFERS,
+purchase_register,PR01992,2B_AMOUNT_DIFFERS,
+purchase_register,PR02052,2B_AMOUNT_DIFFERS,
+purchase_register,PR02175,2B_AMOUNT_DIFFERS,
+purchase_register,PR02292,2B_AMOUNT_DIFFERS,
+purchase_register,PR02504,2B_AMOUNT_DIFFERS,
+purchase_register,PR02679,2B_AMOUNT_DIFFERS,
+purchase_register,PR02724,2B_AMOUNT_DIFFERS,
+purchase_register,PR02759,2B_AMOUNT_DIFFERS,
+purchase_register,PR02854,2B_AMOUNT_DIFFERS,
+purchase_register,PR00094,CATEGORY_MISMATCH,
+purchase_register,PR00106,CATEGORY_MISMATCH,
+purchase_register,PR00110,CATEGORY_MISMATCH,
+purchase_register,PR00120,CATEGORY_MISMATCH,
+purchase_register,PR00188,CATEGORY_MISMATCH,
+purchase_register,PR00534,CATEGORY_MISMATCH,
+purchase_register,PR00705,CATEGORY_MISMATCH,
+purchase_register,PR00741,CATEGORY_MISMATCH,
+purchase_register,PR00803,CATEGORY_MISMATCH,
+purchase_register,PR00956,CATEGORY_MISMATCH,
+purchase_register,PR01542,CATEGORY_MISMATCH,
+purchase_register,PR01621,CATEGORY_MISMATCH,
+purchase_register,PR01837,CATEGORY_MISMATCH,
+purchase_register,PR01925,CATEGORY_MISMATCH,
+purchase_register,PR02200,CATEGORY_MISMATCH,
+purchase_register,PR02336,CATEGORY_MISMATCH,
+purchase_register,PR02409,CATEGORY_MISMATCH,
+purchase_register,PR02475,CATEGORY_MISMATCH,
+purchase_register,PR02482,CATEGORY_MISMATCH,
+purchase_register,PR02672,CATEGORY_MISMATCH,
+purchase_register,PR00739,DUPLICATE_INVOICE,
+purchase_register,PR00824,DUPLICATE_INVOICE,
+purchase_register,PR00875,DUPLICATE_INVOICE,
+purchase_register,PR01039,DUPLICATE_INVOICE,
+purchase_register,PR01049,DUPLICATE_INVOICE,
+purchase_register,PR01149,DUPLICATE_INVOICE,
+purchase_register,PR01206,DUPLICATE_INVOICE,
+purchase_register,PR01239,DUPLICATE_INVOICE,
+purchase_register,PR01271,DUPLICATE_INVOICE,
+purchase_register,PR01846,DUPLICATE_INVOICE,
+purchase_register,PR01914,DUPLICATE_INVOICE,
+purchase_register,PR01939,DUPLICATE_INVOICE,
+purchase_register,PR01945,DUPLICATE_INVOICE,
+purchase_register,PR01972,DUPLICATE_INVOICE,
+purchase_register,PR02133,DUPLICATE_INVOICE,
+purchase_register,PR02249,DUPLICATE_INVOICE,
+purchase_register,PR02263,DUPLICATE_INVOICE,
+purchase_register,PR02320,DUPLICATE_INVOICE,
+purchase_register,PR02321,DUPLICATE_INVOICE,
+purchase_register,PR02406,DUPLICATE_INVOICE,
+purchase_register,PR02881,DUPLICATE_INVOICE,
+purchase_register,PR02882,DUPLICATE_INVOICE,
+purchase_register,PR02883,DUPLICATE_INVOICE,
+purchase_register,PR02884,DUPLICATE_INVOICE,
+purchase_register,PR00312,FIELD_MISSING,vendor_gstin
+purchase_register,PR00322,FIELD_MISSING,taxable_value
+purchase_register,PR00554,FIELD_MISSING,invoice_no
+purchase_register,PR00595,FIELD_MISSING,vendor_gstin
+purchase_register,PR00626,FIELD_MISSING,taxable_value
+purchase_register,PR00627,FIELD_MISSING,vendor_gstin
+purchase_register,PR00651,FIELD_MISSING,invoice_no
+purchase_register,PR00730,FIELD_MISSING,vendor_gstin
+purchase_register,PR01001,FIELD_MISSING,invoice_date
+purchase_register,PR01067,FIELD_MISSING,vendor_gstin
+purchase_register,PR01119,FIELD_MISSING,taxable_value
+purchase_register,PR01310,FIELD_MISSING,invoice_date
+purchase_register,PR01940,FIELD_MISSING,invoice_no
+purchase_register,PR02232,FIELD_MISSING,taxable_value
+purchase_register,PR02264,FIELD_MISSING,invoice_no
+purchase_register,PR02281,FIELD_MISSING,invoice_no
+purchase_register,PR02350,FIELD_MISSING,invoice_date
+purchase_register,PR02421,FIELD_MISSING,taxable_value
+purchase_register,PR02577,FIELD_MISSING,invoice_date
+purchase_register,PR02602,FIELD_MISSING,invoice_date
+purchase_register,PR00069,NOT_IN_2B,supplier did not report it
+purchase_register,PR00199,NOT_IN_2B,supplier did not report it
+purchase_register,PR00254,NOT_IN_2B,supplier did not report it
+purchase_register,PR00263,NOT_IN_2B,supplier did not report it
+purchase_register,PR00266,NOT_IN_2B,supplier did not report it
+purchase_register,PR00267,NOT_IN_2B,supplier did not report it
+purchase_register,PR00449,NOT_IN_2B,supplier did not report it
+purchase_register,PR00525,NOT_IN_2B,supplier did not report it
+purchase_register,PR00552,NOT_IN_2B,supplier did not report it
+purchase_register,PR00687,NOT_IN_2B,supplier did not report it
+purchase_register,PR00723,NOT_IN_2B,supplier did not report it
+purchase_register,PR00850,NOT_IN_2B,supplier did not report it
+purchase_register,PR00896,NOT_IN_2B,supplier did not report it
+purchase_register,PR00996,NOT_IN_2B,supplier did not report it
+purchase_register,PR01029,NOT_IN_2B,supplier did not report it
+purchase_register,PR01038,NOT_IN_2B,supplier did not report it
+purchase_register,PR01177,NOT_IN_2B,supplier did not report it
+purchase_register,PR01228,NOT_IN_2B,supplier did not report it
+purchase_register,PR01267,NOT_IN_2B,supplier did not report it
+purchase_register,PR01322,NOT_IN_2B,supplier did not report it
+purchase_register,PR01398,NOT_IN_2B,supplier did not report it
+purchase_register,PR01788,NOT_IN_2B,supplier did not report it
+purchase_register,PR01801,NOT_IN_2B,supplier did not report it
+purchase_register,PR01809,NOT_IN_2B,supplier did not report it
+purchase_register,PR02007,NOT_IN_2B,supplier did not report it
+purchase_register,PR02107,NOT_IN_2B,supplier did not report it
+purchase_register,PR02276,NOT_IN_2B,supplier did not report it
+purchase_register,PR02362,NOT_IN_2B,supplier did not report it
+purchase_register,PR02369,NOT_IN_2B,supplier did not report it
+purchase_register,PR02419,NOT_IN_2B,supplier did not report it
+purchase_register,PR02449,NOT_IN_2B,supplier did not report it
+purchase_register,PR02493,NOT_IN_2B,supplier did not report it
+purchase_register,PR02496,NOT_IN_2B,supplier did not report it
+purchase_register,PR02526,NOT_IN_2B,supplier did not report it
+purchase_register,PR02568,NOT_IN_2B,supplier did not report it
+purchase_register,PR02646,NOT_IN_2B,supplier did not report it
+purchase_register,PR02696,NOT_IN_2B,supplier did not report it
+purchase_register,PR02701,NOT_IN_2B,supplier did not report it
+purchase_register,PR02735,NOT_IN_2B,supplier did not report it
+purchase_register,PR02785,NOT_IN_2B,supplier did not report it
+purchase_register,PR00309,OVERPAID,
+purchase_register,PR00531,OVERPAID,
+purchase_register,PR00732,OVERPAID,
+purchase_register,PR01837,OVERPAID,
+purchase_register,PR01899,OVERPAID,
+purchase_register,PR01950,OVERPAID,
+purchase_register,PR01983,OVERPAID,
+purchase_register,PR02141,OVERPAID,
+purchase_register,PR00805,PAID_TWICE,
+purchase_register,PR00861,PAID_TWICE,
+purchase_register,PR01461,PAID_TWICE,
+purchase_register,PR01862,PAID_TWICE,
+purchase_register,PR02156,PAID_TWICE,
+purchase_register,PR02840,PAID_TWICE,
+purchase_register,PR00005,TAX_AMOUNT_WRONG,
+purchase_register,PR00007,TAX_AMOUNT_WRONG,
+purchase_register,PR00211,TAX_AMOUNT_WRONG,
+purchase_register,PR00313,TAX_AMOUNT_WRONG,
+purchase_register,PR00480,TAX_AMOUNT_WRONG,
+purchase_register,PR00497,TAX_AMOUNT_WRONG,
+purchase_register,PR00734,TAX_AMOUNT_WRONG,
+purchase_register,PR00750,TAX_AMOUNT_WRONG,
+purchase_register,PR01040,TAX_AMOUNT_WRONG,
+purchase_register,PR01156,TAX_AMOUNT_WRONG,
+purchase_register,PR01259,TAX_AMOUNT_WRONG,
+purchase_register,PR01577,TAX_AMOUNT_WRONG,
+purchase_register,PR01779,TAX_AMOUNT_WRONG,
+purchase_register,PR01964,TAX_AMOUNT_WRONG,
+purchase_register,PR02612,TAX_AMOUNT_WRONG,
+purchase_register,PR00510,TAX_TYPE_WRONG,
+purchase_register,PR00742,TAX_TYPE_WRONG,
+purchase_register,PR00779,TAX_TYPE_WRONG,
+purchase_register,PR00828,TAX_TYPE_WRONG,
+purchase_register,PR01303,TAX_TYPE_WRONG,
+purchase_register,PR01342,TAX_TYPE_WRONG,
+purchase_register,PR01380,TAX_TYPE_WRONG,
+purchase_register,PR01486,TAX_TYPE_WRONG,
+purchase_register,PR02373,TAX_TYPE_WRONG,
+purchase_register,PR02790,TAX_TYPE_WRONG,
+purchase_register,PR00337,TDS_NOT_DEDUCTED,
+purchase_register,PR00671,TDS_NOT_DEDUCTED,
+purchase_register,PR00922,TDS_NOT_DEDUCTED,
+purchase_register,PR01459,TDS_NOT_DEDUCTED,
+purchase_register,PR01505,TDS_NOT_DEDUCTED,
+purchase_register,PR01586,TDS_NOT_DEDUCTED,
+purchase_register,PR01951,TDS_NOT_DEDUCTED,
+purchase_register,PR02380,TDS_NOT_DEDUCTED,
+purchase_register,PR00068,UNDERPAID,
+purchase_register,PR00095,UNDERPAID,
+purchase_register,PR00381,UNDERPAID,
+purchase_register,PR00446,UNDERPAID,
+purchase_register,PR00482,UNDERPAID,
+purchase_register,PR00619,UNDERPAID,
+purchase_register,PR00783,UNDERPAID,
+purchase_register,PR00908,UNDERPAID,
+purchase_register,PR01357,UNDERPAID,
+purchase_register,PR01625,UNDERPAID,
+purchase_register,PR01722,UNDERPAID,
+purchase_register,PR01916,UNDERPAID,
+purchase_register,PR02003,UNDERPAID,
+purchase_register,PR02117,UNDERPAID,
+purchase_register,PR02361,UNDERPAID,
+purchase_register,PR02683,UNDERPAID,
+purchase_register,PR02732,UNDERPAID,
+purchase_register,PR02868,UNDERPAID,
+purchase_register,PR00064,UNPAID_OVERDUE,
+purchase_register,PR00097,UNPAID_OVERDUE,
+purchase_register,PR00144,UNPAID_OVERDUE,
+purchase_register,PR00251,UNPAID_OVERDUE,
+purchase_register,PR00297,UNPAID_OVERDUE,
+purchase_register,PR00314,UNPAID_OVERDUE,
+purchase_register,PR00352,UNPAID_OVERDUE,
+purchase_register,PR00478,UNPAID_OVERDUE,
+purchase_register,PR00499,UNPAID_OVERDUE,
+purchase_register,PR00607,UNPAID_OVERDUE,
+purchase_register,PR00719,UNPAID_OVERDUE,
+purchase_register,PR00734,UNPAID_OVERDUE,
+purchase_register,PR00790,UNPAID_OVERDUE,
+purchase_register,PR01093,UNPAID_OVERDUE,
+purchase_register,PR01110,UNPAID_OVERDUE,
+purchase_register,PR01198,UNPAID_OVERDUE,
+purchase_register,PR01233,UNPAID_OVERDUE,
+purchase_register,PR01491,UNPAID_OVERDUE,
+purchase_register,PR01554,UNPAID_OVERDUE,
+purchase_register,PR01620,UNPAID_OVERDUE,
+vendor_master,V096,DUPLICATE_VENDOR,same PAN as V024
+vendor_master,V097,DUPLICATE_VENDOR,same PAN as V062
+vendor_master,V098,DUPLICATE_VENDOR,same PAN as V010
+vendor_master,V099,DUPLICATE_VENDOR,same PAN as V016
+vendor_master,V011,GSTIN_INVALID,short
+vendor_master,V021,GSTIN_INVALID,state00
+vendor_master,V031,GSTIN_INVALID,statealpha
+vendor_master,V073,GSTIN_INVALID,notZ
+vendor_master,V088,GSTIN_INVALID,long
+vendor_master,V002,GSTIN_MISSING,
+vendor_master,V054,GSTIN_MISSING,
+vendor_master,V055,GSTIN_MISSING,
+vendor_master,V086,GSTIN_MISSING,
+vendor_master,V009,PAN_MISMATCH,
+vendor_master,V014,PAN_MISMATCH,
+vendor_master,V067,PAN_MISMATCH,

@@ -1,0 +1,100 @@
+vendor_id,vendor_name,pan,gstin,state_code,state_name,payment_terms_days,default_category
+V001,Aditya Electricals Ltd,KEGCW4131E,27KEGCW4131E1Z0,27,Maharashtra,30,Repairs & Maintenance
+V002,Sigma Telecom Pvt Ltd,ZSDCZ9387B,,09,Uttar Pradesh,15,Telecom
+V003,Konkan Electricals Pvt Ltd,IUUCQ4536T,07IUUCQ4536T1ZV,07,Delhi,30,Repairs & Maintenance
+V004,Sterling Stationers Pvt Ltd,JUQCD8300K,06JUQCD8300K1Z1,06,Haryana,30,Office Supplies
+V005,Nimbus Creatives LLP,ONGFP5591K,27ONGFP5591K1ZJ,27,Maharashtra,45,Marketing
+V006,Sahyog Electricals Pvt Ltd,UMXCK0192B,27UMXCK0192B1Z5,27,Maharashtra,30,Repairs & Maintenance
+V007,Aditya Stationers Ltd,ONCCW4595R,27ONCCW4595R1Z6,27,Maharashtra,30,Office Supplies
+V008,Ganga Telecom Pvt Ltd,QMOCA4925H,33QMOCA4925H1ZI,33,Tamil Nadu,15,Telecom
+V009,Crest Travels Pvt Ltd,JFBCF7495M,27JFBCF7492M1ZI,27,Maharashtra,15,Travel
+V010,Lotus Creatives LLP,HVKFG9531B,27HVKFG9531B1Z2,27,Maharashtra,45,Marketing
+V011,Akash Steel Traders Ltd,YPVCR0622U,24YPVCR0622U1Z,24,Gujarat,60,Raw Materials
+V012,Pragati Office Mart LLP,NLNFQ4486D,27NLNFQ4486D1ZV,27,Maharashtra,30,Office Supplies
+V013,Coral Digital Labs LLP,VOZFQ8486Z,07VOZFQ8486Z1ZQ,07,Delhi,30,Cloud & Software
+V014,Coral Ad Agency Pvt Ltd,OSRCR5183D,29OSRCR2183D1ZN,29,Karnataka,45,Marketing
+V015,Pinnacle Engineering Works Pvt Ltd,WXTCL6712Z,24WXTCL6712Z1ZB,24,Gujarat,30,Repairs & Maintenance
+V016,Trident & Associates,OVPFG4060D,27OVPFG4060D1ZW,27,Maharashtra,30,Professional Fees
+V017,Ashoka Polymers LLP,XYVFQ6690Z,27XYVFQ6690Z1ZC,27,Maharashtra,60,Raw Materials
+V018,Nimbus Stationers Pvt Ltd,WXDCV3047M,27WXDCV3047M1Z3,27,Maharashtra,30,Office Supplies
+V019,Aarav Travels Pvt Ltd,QPGCB8874L,27QPGCB8874L1ZN,27,Maharashtra,15,Travel
+V020,Matrix Stationers Pvt Ltd,BOVCO3088P,24BOVCO3088P1ZM,24,Gujarat,30,Office Supplies
+V021,Unity Facility Services Pvt Ltd,LOICX8080M,00LOICX8080M1ZE,27,Maharashtra,30,Repairs & Maintenance
+V022,Bharat Castings Pvt Ltd,DKZCU0154T,27DKZCU0154T1ZJ,27,Maharashtra,60,Raw Materials
+V023,Akash & Associates,JFWFE7362A,33JFWFE7362A1ZV,33,Tamil Nadu,30,Professional Fees
+V024,Riddhi Freight Carriers Pvt Ltd,WFFCY1291L,27WFFCY1291L1ZZ,27,Maharashtra,45,Logistics
+V025,Aditya Creatives Pvt Ltd,MIGCU8028E,27MIGCU8028E1ZF,27,Maharashtra,45,Marketing
+V026,Silver Facility Services Pvt Ltd,TRDCI5389D,27TRDCI5389D1ZX,27,Maharashtra,30,Repairs & Maintenance
+V027,Sahas Castings Pvt Ltd,FEPCE1741K,27FEPCE1741K1ZZ,27,Maharashtra,60,Raw Materials
+V028,Pawan Metals Pvt Ltd,XUFCA4535R,33XUFCA4535R1ZL,33,Tamil Nadu,60,Raw Materials
+V029,Pinnacle Creatives Ltd,EZWCF4218Q,07EZWCF4218Q1Z9,07,Delhi,45,Marketing
+V030,Sterling Polymers Ltd,JURCY2051F,27JURCY2051F1ZQ,27,Maharashtra,60,Raw Materials
+V031,Akash Logistics Pvt Ltd,PSVCI5386Y,M7PSVCI5386Y1ZD,27,Maharashtra,45,Logistics
+V032,Sahyog Freight Carriers Pvt Ltd,MIXCW3973M,27MIXCW3973M1ZB,27,Maharashtra,45,Logistics
+V033,Maruti Stationers Pvt Ltd,QKUCV2989A,33QKUCV2989A1ZX,33,Tamil Nadu,30,Office Supplies
+V034,Pinnacle Facility Services LLP,OGIFE9196Y,27OGIFE9196Y1Z6,27,Maharashtra,30,Repairs & Maintenance
+V035,Nimbus Realty Pvt Ltd,RLXCP7644S,27RLXCP7644S1ZV,27,Maharashtra,15,Rent
+V036,Neel Supplies Pvt Ltd,IGBCN4211N,27IGBCN4211N1ZW,27,Maharashtra,30,Office Supplies
+V037,Orbit Logistics Pvt Ltd,ZLPCS0790W,27ZLPCS0790W1ZR,27,Maharashtra,45,Logistics
+V038,Pragati Properties Pvt Ltd,UXHCN6396Z,27UXHCN6396Z1Z1,27,Maharashtra,15,Rent
+V039,Meru Supplies Pvt Ltd,ORDCZ4320D,27ORDCZ4320D1Z8,27,Maharashtra,30,Office Supplies
+V040,Bharat Legal LLP,DWYFZ8567P,27DWYFZ8567P1Z4,27,Maharashtra,30,Professional Fees
+V041,Sigma Travels Pvt Ltd,ONICI2767O,27ONICI2767O1ZQ,27,Maharashtra,15,Travel
+V042,Shree Polymers Pvt Ltd,ANPCU4951A,27ANPCU4951A1ZG,27,Maharashtra,60,Raw Materials
+V043,Maruti Creatives LLP,RWJFU6422R,27RWJFU6422R1ZO,27,Maharashtra,45,Marketing
+V044,Orbit Tours Pvt Ltd,GLTCA5791T,07GLTCA5791T1ZL,07,Delhi,15,Travel
+V045,Matrix Legal LLP,QSUFM7095G,27QSUFM7095G1Z2,27,Maharashtra,30,Professional Fees
+V046,Nimbus Infosystems Ltd,CXOCD6970Q,27CXOCD6970Q1Z8,27,Maharashtra,30,Cloud & Software
+V047,Akash Softech Pvt Ltd,RSYCR4112R,33RSYCR4112R1Z6,33,Tamil Nadu,30,Cloud & Software
+V048,Sapphire Freight Carriers Ltd,BZTCQ1960X,27BZTCQ1960X1ZL,27,Maharashtra,45,Logistics
+V049,Prakash Electricals LLP,QVTFQ3439N,06QVTFQ3439N1ZU,06,Haryana,30,Repairs & Maintenance
+V050,Swift Logistics Ltd,ZKLCL3427J,27ZKLCL3427J1ZY,27,Maharashtra,45,Logistics
+V051,Vardhan Broadband Ltd,DZSCE7492F,24DZSCE7492F1ZO,24,Gujarat,15,Telecom
+V052,Sigma Freight Carriers Pvt Ltd,FLXCN0499R,27FLXCN0499R1ZC,27,Maharashtra,45,Logistics
+V053,Trident Travels Ltd,TZOCQ3984P,27TZOCQ3984P1ZC,27,Maharashtra,15,Travel
+V054,Neel Roadways Pvt Ltd,BNLCD6328Z,,27,Maharashtra,45,Logistics
+V055,Maruti Castings Pvt Ltd,KOZCZ2589Q,,27,Maharashtra,60,Raw Materials
+V056,Swift Consulting Pvt Ltd,PYWCQ4762C,27PYWCQ4762C1Z7,27,Maharashtra,30,Professional Fees
+V057,Nimbus Softech Pvt Ltd,NRSCN7701E,09NRSCN7701E1ZV,09,Uttar Pradesh,30,Cloud & Software
+V058,Nova Castings Ltd,TBVCU3978P,06TBVCU3978P1ZG,06,Haryana,60,Raw Materials
+V059,Sahas Metals Pvt Ltd,ICOCL5160Y,27ICOCL5160Y1ZX,27,Maharashtra,60,Raw Materials
+V060,Deccan Freight Carriers Ltd,JANCI5802P,27JANCI5802P1ZP,27,Maharashtra,45,Logistics
+V061,Vertex Freight Carriers Ltd,MPLCY1863S,27MPLCY1863S1Z2,27,Maharashtra,45,Logistics
+V062,Swift Metals Pvt Ltd,QQJCP1981R,27QQJCP1981R1Z6,27,Maharashtra,60,Raw Materials
+V063,Lotus Engineering Works Pvt Ltd,TZECH7593G,36TZECH7593G1ZA,36,Telangana,30,Repairs & Maintenance
+V064,Tara Roadways Ltd,LIVCQ8688D,29LIVCQ8688D1ZL,29,Karnataka,45,Logistics
+V065,Indus Infosystems Pvt Ltd,HLWCW9460J,27HLWCW9460J1ZF,27,Maharashtra,30,Cloud & Software
+V066,Meru Digital Labs Pvt Ltd,ACHCD7367A,27ACHCD7367A1ZK,27,Maharashtra,30,Cloud & Software
+V067,Neel Castings Pvt Ltd,LLVCZ9515J,27LLVCZ9512J1ZG,27,Maharashtra,60,Raw Materials
+V068,Akash Travels Ltd,QHACT0714P,27QHACT0714P1ZD,27,Maharashtra,15,Travel
+V069,Kaveri Polymers Pvt Ltd,XKZCZ3809R,09XKZCZ3809R1ZO,09,Uttar Pradesh,60,Raw Materials
+V070,Aarav Steel Traders Ltd,BSWCJ5415J,07BSWCJ5415J1ZZ,07,Delhi,60,Raw Materials
+V071,Akash Freight Carriers LLP,AYKFB8675O,27AYKFB8675O1Z6,27,Maharashtra,45,Logistics
+V072,Konkan Holidays LLP,GAKFC7227V,27GAKFC7227V1ZC,27,Maharashtra,15,Travel
+V073,Om Metals LLP,FMZFD6130Q,27FMZFD6130Q1XQ,27,Maharashtra,60,Raw Materials
+V074,Shree Castings LLP,XOIFR0919X,27XOIFR0919X1ZS,27,Maharashtra,60,Raw Materials
+V075,Swift Infosystems Pvt Ltd,JZJCM8414U,27JZJCM8414U1ZU,27,Maharashtra,30,Cloud & Software
+V076,Lotus Consulting Ltd,NVVCR0550J,33NVVCR0550J1ZL,33,Tamil Nadu,30,Professional Fees
+V077,Aditya Polymers Pvt Ltd,IDACD8437V,27IDACD8437V1ZD,27,Maharashtra,60,Raw Materials
+V078,Crest Creatives Pvt Ltd,AGLCQ2072Q,24AGLCQ2072Q1ZK,24,Gujarat,45,Marketing
+V079,Prakash Metals Pvt Ltd,OITCV3109F,07OITCV3109F1ZB,07,Delhi,60,Raw Materials
+V080,Nimbus Logistics Pvt Ltd,VKLCF3950H,27VKLCF3950H1Z9,27,Maharashtra,45,Logistics
+V081,Shree Facility Services Ltd,QKOCK6711K,27QKOCK6711K1Z2,27,Maharashtra,30,Repairs & Maintenance
+V082,Meru Roadways Pvt Ltd,AXDCD6419C,27AXDCD6419C1ZM,27,Maharashtra,45,Logistics
+V083,Riddhi Holidays Pvt Ltd,WYMCQ0567G,27WYMCQ0567G1Z7,27,Maharashtra,15,Travel
+V084,Pinnacle Advisors Pvt Ltd,SZGCF6975X,27SZGCF6975X1ZB,27,Maharashtra,30,Professional Fees
+V085,Crest Polymers Ltd,XIBCC8107Y,33XIBCC8107Y1ZX,33,Tamil Nadu,60,Raw Materials
+V086,Shree Infosystems Pvt Ltd,WCFCT9118N,,09,Uttar Pradesh,30,Cloud & Software
+V087,Deccan Properties Pvt Ltd,YKBCL5790Y,27YKBCL5790Y1Z1,27,Maharashtra,15,Rent
+V088,Sigma & Associates,RQEFK9552S,07RQEFK9552S1Z27,07,Delhi,30,Professional Fees
+V089,Nova Broadband Pvt Ltd,RKXCE8326B,27RKXCE8326B1ZA,27,Maharashtra,15,Telecom
+V090,Pragati Media Pvt Ltd,WZQCQ8559T,06WZQCQ8559T1ZY,06,Haryana,45,Marketing
+V091,Neel Office Mart Pvt Ltd,CHICI7600P,27CHICI7600P1ZN,27,Maharashtra,30,Office Supplies
+V092,Vardhan Polymers Pvt Ltd,OGSCD0300R,27OGSCD0300R1ZL,27,Maharashtra,60,Raw Materials
+V093,Shree Travels LLP,AFGFZ2768Q,27AFGFZ2768Q1ZV,27,Maharashtra,15,Travel
+V094,Sigma Stationers Pvt Ltd,FQLCH1138R,27FQLCH1138R1ZY,27,Maharashtra,30,Office Supplies
+V095,Neel Tours Pvt Ltd,YASCU9213D,27YASCU9213D1ZD,27,Maharashtra,15,Travel
+V096,Riddhi Freight Carriers Private Limited,WFFCY1291L,27WFFCY1291L1ZZ,27,Maharashtra,45,Logistics
+V097,Swift Metals Private Limited,QQJCP1981R,27QQJCP1981R1Z6,27,Maharashtra,60,Raw Materials
+V098,LOTUS CREATIVES LLP,HVKFG9531B,27HVKFG9531B1Z2,27,Maharashtra,45,Marketing
+V099,TRIDENT & ASSOCIATES,OVPFG4060D,27OVPFG4060D1ZW,27,Maharashtra,30,Professional Fees

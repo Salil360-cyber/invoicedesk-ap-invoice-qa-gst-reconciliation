@@ -1,0 +1,280 @@
+table,record_id,check,detail
+vendor_master,V002,GSTIN_MISSING,
+vendor_master,V009,PAN_MISMATCH,"GSTIN has JFBCF7492M, PAN column JFBCF7495M"
+vendor_master,V010,DUPLICATE_VENDOR,PAN HVKFG9531B used by 2 vendor records
+vendor_master,V011,GSTIN_INVALID,24YPVCR0622U1Z
+vendor_master,V014,PAN_MISMATCH,"GSTIN has OSRCR2183D, PAN column OSRCR5183D"
+vendor_master,V016,DUPLICATE_VENDOR,PAN OVPFG4060D used by 2 vendor records
+vendor_master,V021,GSTIN_INVALID,00LOICX8080M1ZE
+vendor_master,V024,DUPLICATE_VENDOR,PAN WFFCY1291L used by 2 vendor records
+vendor_master,V031,GSTIN_INVALID,M7PSVCI5386Y1ZD
+vendor_master,V054,GSTIN_MISSING,
+vendor_master,V055,GSTIN_MISSING,
+vendor_master,V062,DUPLICATE_VENDOR,PAN QQJCP1981R used by 2 vendor records
+vendor_master,V067,PAN_MISMATCH,"GSTIN has LLVCZ9512J, PAN column LLVCZ9515J"
+vendor_master,V073,GSTIN_INVALID,27FMZFD6130Q1XQ
+vendor_master,V086,GSTIN_MISSING,
+vendor_master,V088,GSTIN_INVALID,07RQEFK9552S1Z27
+vendor_master,V096,DUPLICATE_VENDOR,PAN WFFCY1291L used by 2 vendor records
+vendor_master,V097,DUPLICATE_VENDOR,PAN QQJCP1981R used by 2 vendor records
+vendor_master,V098,DUPLICATE_VENDOR,PAN HVKFG9531B used by 2 vendor records
+vendor_master,V099,DUPLICATE_VENDOR,PAN OVPFG4060D used by 2 vendor records
+purchase_register,PR00005,TAX_AMOUNT_WRONG,"booked 4513.42, expected 3008.95"
+purchase_register,PR00007,TAX_AMOUNT_WRONG,"booked 58238.18, expected 52943.80"
+purchase_register,PR00094,CATEGORY_MISMATCH,"booked Repairs & Maintenance, vendor is Office Supplies"
+purchase_register,PR00106,CATEGORY_MISMATCH,"booked Cloud & Software, vendor is Office Supplies"
+purchase_register,PR00110,CATEGORY_MISMATCH,"booked Travel, vendor is Logistics"
+purchase_register,PR00120,CATEGORY_MISMATCH,"booked Telecom, vendor is Travel"
+purchase_register,PR00188,CATEGORY_MISMATCH,"booked Raw Materials, vendor is Office Supplies"
+purchase_register,PR00211,TAX_AMOUNT_WRONG,"booked 80473.00, expected 160946.00"
+purchase_register,PR00312,FIELD_MISSING,vendor_gstin
+purchase_register,PR00313,TAX_AMOUNT_WRONG,"booked 1340.58, expected 893.72"
+purchase_register,PR00322,FIELD_MISSING,taxable_value
+purchase_register,PR00480,TAX_AMOUNT_WRONG,"booked 44036.48, expected 88072.97"
+purchase_register,PR00497,TAX_AMOUNT_WRONG,"booked 5953.09, expected 11906.17"
+purchase_register,PR00510,TAX_TYPE_WRONG,supplier state 27
+purchase_register,PR00534,CATEGORY_MISMATCH,"booked Cloud & Software, vendor is Telecom"
+purchase_register,PR00554,FIELD_MISSING,invoice_no
+purchase_register,PR00595,FIELD_MISSING,vendor_gstin
+purchase_register,PR00626,FIELD_MISSING,taxable_value
+purchase_register,PR00627,FIELD_MISSING,vendor_gstin
+purchase_register,PR00651,FIELD_MISSING,invoice_no
+purchase_register,PR00705,CATEGORY_MISMATCH,"booked Repairs & Maintenance, vendor is Logistics"
+purchase_register,PR00730,FIELD_MISSING,vendor_gstin
+purchase_register,PR00734,TAX_AMOUNT_WRONG,"booked 10354.30, expected 12942.88"
+purchase_register,PR00739,DUPLICATE_INVOICE,
+purchase_register,PR00741,CATEGORY_MISMATCH,"booked Repairs & Maintenance, vendor is Raw Materials"
+purchase_register,PR00742,TAX_TYPE_WRONG,supplier state 27
+purchase_register,PR00750,TAX_AMOUNT_WRONG,"booked 12749.30, expected 8499.53"
+purchase_register,PR00779,TAX_TYPE_WRONG,supplier state 27
+purchase_register,PR00803,CATEGORY_MISMATCH,"booked Office Supplies, vendor is Professional Fees"
+purchase_register,PR00824,DUPLICATE_INVOICE,
+purchase_register,PR00828,TAX_TYPE_WRONG,supplier state 27
+purchase_register,PR00875,DUPLICATE_INVOICE,
+purchase_register,PR00956,CATEGORY_MISMATCH,"booked Marketing, vendor is Office Supplies"
+purchase_register,PR01001,FIELD_MISSING,invoice_date
+purchase_register,PR01039,DUPLICATE_INVOICE,
+purchase_register,PR01040,TAX_AMOUNT_WRONG,"booked 1973.56, expected 2466.96"
+purchase_register,PR01049,DUPLICATE_INVOICE,
+purchase_register,PR01067,FIELD_MISSING,vendor_gstin
+purchase_register,PR01119,FIELD_MISSING,taxable_value
+purchase_register,PR01149,DUPLICATE_INVOICE,
+purchase_register,PR01156,TAX_AMOUNT_WRONG,"booked 12193.10, expected 8128.73"
+purchase_register,PR01206,DUPLICATE_INVOICE,
+purchase_register,PR01239,DUPLICATE_INVOICE,
+purchase_register,PR01259,TAX_AMOUNT_WRONG,"booked 31048.70, expected 20699.14"
+purchase_register,PR01271,DUPLICATE_INVOICE,
+purchase_register,PR01303,TAX_TYPE_WRONG,supplier state 07
+purchase_register,PR01310,FIELD_MISSING,invoice_date
+purchase_register,PR01342,TAX_TYPE_WRONG,supplier state 24
+purchase_register,PR01380,TAX_TYPE_WRONG,supplier state 27
+purchase_register,PR01486,TAX_TYPE_WRONG,supplier state 27
+purchase_register,PR01542,CATEGORY_MISMATCH,"booked Telecom, vendor is Raw Materials"
+purchase_register,PR01577,TAX_AMOUNT_WRONG,"booked 310.52, expected 465.78"
+purchase_register,PR01621,CATEGORY_MISMATCH,"booked Raw Materials, vendor is Logistics"
+purchase_register,PR01779,TAX_AMOUNT_WRONG,"booked 1288.28, expected 2576.58"
+purchase_register,PR01837,CATEGORY_MISMATCH,"booked Telecom, vendor is Office Supplies"
+purchase_register,PR01846,DUPLICATE_INVOICE,
+purchase_register,PR01914,DUPLICATE_INVOICE,
+purchase_register,PR01925,CATEGORY_MISMATCH,"booked Repairs & Maintenance, vendor is Raw Materials"
+purchase_register,PR01939,DUPLICATE_INVOICE,
+purchase_register,PR01940,FIELD_MISSING,invoice_no
+purchase_register,PR01945,DUPLICATE_INVOICE,
+purchase_register,PR01964,TAX_AMOUNT_WRONG,"booked 1514.28, expected 1892.84"
+purchase_register,PR01972,DUPLICATE_INVOICE,
+purchase_register,PR02133,DUPLICATE_INVOICE,
+purchase_register,PR02200,CATEGORY_MISMATCH,"booked Marketing, vendor is Logistics"
+purchase_register,PR02232,FIELD_MISSING,taxable_value
+purchase_register,PR02249,DUPLICATE_INVOICE,
+purchase_register,PR02263,DUPLICATE_INVOICE,
+purchase_register,PR02264,FIELD_MISSING,invoice_no
+purchase_register,PR02281,FIELD_MISSING,invoice_no
+purchase_register,PR02320,DUPLICATE_INVOICE,
+purchase_register,PR02321,DUPLICATE_INVOICE,
+purchase_register,PR02336,CATEGORY_MISMATCH,"booked Rent, vendor is Logistics"
+purchase_register,PR02350,FIELD_MISSING,invoice_date
+purchase_register,PR02373,TAX_TYPE_WRONG,supplier state 09
+purchase_register,PR02406,DUPLICATE_INVOICE,
+purchase_register,PR02409,CATEGORY_MISMATCH,"booked Office Supplies, vendor is Raw Materials"
+purchase_register,PR02421,FIELD_MISSING,taxable_value
+purchase_register,PR02475,CATEGORY_MISMATCH,"booked Telecom, vendor is Logistics"
+purchase_register,PR02482,CATEGORY_MISMATCH,"booked Repairs & Maintenance, vendor is Travel"
+purchase_register,PR02577,FIELD_MISSING,invoice_date
+purchase_register,PR02602,FIELD_MISSING,invoice_date
+purchase_register,PR02612,TAX_AMOUNT_WRONG,"booked 30387.22, expected 27624.74"
+purchase_register,PR02672,CATEGORY_MISMATCH,"booked Telecom, vendor is Travel"
+purchase_register,PR02790,TAX_TYPE_WRONG,supplier state 27
+purchase_register,PR02881,DUPLICATE_INVOICE,
+purchase_register,PR02882,DUPLICATE_INVOICE,
+purchase_register,PR02883,DUPLICATE_INVOICE,
+purchase_register,PR02884,DUPLICATE_INVOICE,
+purchase_register,PR00005,AMOUNT_MISMATCH,
+purchase_register,PR00007,AMOUNT_MISMATCH,
+purchase_register,PR00069,MISSING_IN_2B,
+purchase_register,PR00140,AMOUNT_MISMATCH,
+purchase_register,PR00199,MISSING_IN_2B,
+purchase_register,PR00211,AMOUNT_MISMATCH,
+purchase_register,PR00216,AMOUNT_MISMATCH,
+purchase_register,PR00254,MISSING_IN_2B,
+purchase_register,PR00263,MISSING_IN_2B,
+purchase_register,PR00266,MISSING_IN_2B,
+purchase_register,PR00267,MISSING_IN_2B,
+purchase_register,PR00313,AMOUNT_MISMATCH,
+purchase_register,PR00331,AMOUNT_MISMATCH,
+purchase_register,PR00413,AMOUNT_MISMATCH,
+purchase_register,PR00449,MISSING_IN_2B,
+purchase_register,PR00480,AMOUNT_MISMATCH,
+purchase_register,PR00497,AMOUNT_MISMATCH,
+purchase_register,PR00525,MISSING_IN_2B,
+purchase_register,PR00552,MISSING_IN_2B,
+purchase_register,PR00603,AMOUNT_MISMATCH,
+purchase_register,PR00623,AMOUNT_MISMATCH,
+purchase_register,PR00687,MISSING_IN_2B,
+purchase_register,PR00691,AMOUNT_MISMATCH,
+purchase_register,PR00720,AMOUNT_MISMATCH,
+purchase_register,PR00723,MISSING_IN_2B,
+purchase_register,PR00734,AMOUNT_MISMATCH,
+purchase_register,PR00750,AMOUNT_MISMATCH,
+purchase_register,PR00850,MISSING_IN_2B,
+purchase_register,PR00855,AMOUNT_MISMATCH,
+purchase_register,PR00896,MISSING_IN_2B,
+purchase_register,PR00996,MISSING_IN_2B,
+purchase_register,PR01029,MISSING_IN_2B,
+purchase_register,PR01038,MISSING_IN_2B,
+purchase_register,PR01040,AMOUNT_MISMATCH,
+purchase_register,PR01156,AMOUNT_MISMATCH,
+purchase_register,PR01177,MISSING_IN_2B,
+purchase_register,PR01228,MISSING_IN_2B,
+purchase_register,PR01253,AMOUNT_MISMATCH,
+purchase_register,PR01259,AMOUNT_MISMATCH,
+purchase_register,PR01267,MISSING_IN_2B,
+purchase_register,PR01290,AMOUNT_MISMATCH,
+purchase_register,PR01322,MISSING_IN_2B,
+purchase_register,PR01358,AMOUNT_MISMATCH,
+purchase_register,PR01398,MISSING_IN_2B,
+purchase_register,PR01429,AMOUNT_MISMATCH,
+purchase_register,PR01494,AMOUNT_MISMATCH,
+purchase_register,PR01517,AMOUNT_MISMATCH,
+purchase_register,PR01519,AMOUNT_MISMATCH,
+purchase_register,PR01577,AMOUNT_MISMATCH,
+purchase_register,PR01779,AMOUNT_MISMATCH,
+purchase_register,PR01788,MISSING_IN_2B,
+purchase_register,PR01801,MISSING_IN_2B,
+purchase_register,PR01809,MISSING_IN_2B,
+purchase_register,PR01964,AMOUNT_MISMATCH,
+purchase_register,PR01992,AMOUNT_MISMATCH,
+purchase_register,PR02007,MISSING_IN_2B,
+purchase_register,PR02052,AMOUNT_MISMATCH,
+purchase_register,PR02107,MISSING_IN_2B,
+purchase_register,PR02175,AMOUNT_MISMATCH,
+purchase_register,PR02276,MISSING_IN_2B,
+purchase_register,PR02292,AMOUNT_MISMATCH,
+purchase_register,PR02362,MISSING_IN_2B,
+purchase_register,PR02369,MISSING_IN_2B,
+purchase_register,PR02419,MISSING_IN_2B,
+purchase_register,PR02449,MISSING_IN_2B,
+purchase_register,PR02493,MISSING_IN_2B,
+purchase_register,PR02496,MISSING_IN_2B,
+purchase_register,PR02504,AMOUNT_MISMATCH,
+purchase_register,PR02526,MISSING_IN_2B,
+purchase_register,PR02568,MISSING_IN_2B,
+purchase_register,PR02612,AMOUNT_MISMATCH,
+purchase_register,PR02646,MISSING_IN_2B,
+purchase_register,PR02679,AMOUNT_MISMATCH,
+purchase_register,PR02696,MISSING_IN_2B,
+purchase_register,PR02701,MISSING_IN_2B,
+purchase_register,PR02724,AMOUNT_MISMATCH,
+purchase_register,PR02735,MISSING_IN_2B,
+purchase_register,PR02759,AMOUNT_MISMATCH,
+purchase_register,PR02785,MISSING_IN_2B,
+purchase_register,PR02854,AMOUNT_MISMATCH,
+gstr_2b,B00102,NOT_IN_BOOKS,
+gstr_2b,B00147,NOT_IN_BOOKS,
+gstr_2b,B00160,NOT_IN_BOOKS,
+gstr_2b,B00176,NOT_IN_BOOKS,
+gstr_2b,B00214,NOT_IN_BOOKS,
+gstr_2b,B00355,NOT_IN_BOOKS,
+gstr_2b,B00539,NOT_IN_BOOKS,
+gstr_2b,B00721,NOT_IN_BOOKS,
+gstr_2b,B00826,NOT_IN_BOOKS,
+gstr_2b,B00858,NOT_IN_BOOKS,
+gstr_2b,B00927,NOT_IN_BOOKS,
+gstr_2b,B00937,NOT_IN_BOOKS,
+gstr_2b,B00943,NOT_IN_BOOKS,
+gstr_2b,B01399,NOT_IN_BOOKS,
+gstr_2b,B01695,NOT_IN_BOOKS,
+gstr_2b,B01821,NOT_IN_BOOKS,
+gstr_2b,B01879,NOT_IN_BOOKS,
+gstr_2b,B01929,NOT_IN_BOOKS,
+gstr_2b,B02192,NOT_IN_BOOKS,
+gstr_2b,B02200,NOT_IN_BOOKS,
+gstr_2b,B02253,NOT_IN_BOOKS,
+gstr_2b,B02270,NOT_IN_BOOKS,
+gstr_2b,B02450,NOT_IN_BOOKS,
+gstr_2b,B02712,NOT_IN_BOOKS,
+gstr_2b,B02714,NOT_IN_BOOKS,
+purchase_register,PR00064,UNPAID_OVERDUE,
+purchase_register,PR00068,UNDERPAID,
+purchase_register,PR00095,UNDERPAID,
+purchase_register,PR00097,UNPAID_OVERDUE,
+purchase_register,PR00144,UNPAID_OVERDUE,
+purchase_register,PR00251,UNPAID_OVERDUE,
+purchase_register,PR00297,UNPAID_OVERDUE,
+purchase_register,PR00309,OVERPAID,
+purchase_register,PR00314,UNPAID_OVERDUE,
+purchase_register,PR00352,UNPAID_OVERDUE,
+purchase_register,PR00381,UNDERPAID,
+purchase_register,PR00446,UNDERPAID,
+purchase_register,PR00478,UNPAID_OVERDUE,
+purchase_register,PR00482,UNDERPAID,
+purchase_register,PR00499,UNPAID_OVERDUE,
+purchase_register,PR00531,OVERPAID,
+purchase_register,PR00607,UNPAID_OVERDUE,
+purchase_register,PR00619,UNDERPAID,
+purchase_register,PR00719,UNPAID_OVERDUE,
+purchase_register,PR00732,OVERPAID,
+purchase_register,PR00734,UNPAID_OVERDUE,
+purchase_register,PR00783,UNDERPAID,
+purchase_register,PR00790,UNPAID_OVERDUE,
+purchase_register,PR00805,PAID_TWICE,
+purchase_register,PR00861,PAID_TWICE,
+purchase_register,PR00908,UNDERPAID,
+purchase_register,PR01093,UNPAID_OVERDUE,
+purchase_register,PR01110,UNPAID_OVERDUE,
+purchase_register,PR01198,UNPAID_OVERDUE,
+purchase_register,PR01233,UNPAID_OVERDUE,
+purchase_register,PR01357,UNDERPAID,
+purchase_register,PR01461,PAID_TWICE,
+purchase_register,PR01491,UNPAID_OVERDUE,
+purchase_register,PR01554,UNPAID_OVERDUE,
+purchase_register,PR01620,UNPAID_OVERDUE,
+purchase_register,PR01625,UNDERPAID,
+purchase_register,PR01722,UNDERPAID,
+purchase_register,PR01837,OVERPAID,
+purchase_register,PR01862,PAID_TWICE,
+purchase_register,PR01899,OVERPAID,
+purchase_register,PR01916,UNDERPAID,
+purchase_register,PR01950,OVERPAID,
+purchase_register,PR01983,OVERPAID,
+purchase_register,PR02003,UNDERPAID,
+purchase_register,PR02117,UNDERPAID,
+purchase_register,PR02141,OVERPAID,
+purchase_register,PR02156,PAID_TWICE,
+purchase_register,PR02361,UNDERPAID,
+purchase_register,PR02683,UNDERPAID,
+purchase_register,PR02732,UNDERPAID,
+purchase_register,PR02840,PAID_TWICE,
+purchase_register,PR02868,UNDERPAID,
+payments,PAY00034,TDS_NOT_DEDUCTED,
+payments,PAY00413,TDS_NOT_DEDUCTED,
+payments,PAY00652,TDS_NOT_DEDUCTED,
+payments,PAY00792,PAYMENT_NOT_LINKED,
+payments,PAY01029,PAYMENT_NOT_LINKED,
+payments,PAY01047,TDS_NOT_DEDUCTED,
+payments,PAY01289,TDS_NOT_DEDUCTED,
+payments,PAY01298,TDS_NOT_DEDUCTED,
+payments,PAY01562,PAYMENT_NOT_LINKED,
+payments,PAY01566,TDS_NOT_DEDUCTED,
+payments,PAY02035,TDS_NOT_DEDUCTED,
+payments,PAY02288,PAYMENT_NOT_LINKED,
+payments,PAY02515,PAYMENT_NOT_LINKED,
